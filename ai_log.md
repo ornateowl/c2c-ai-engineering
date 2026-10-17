@@ -19,3 +19,22 @@ I checked that the shuffle button updated the displayed pokemon instead of just 
 How I verified it:
 I clicked the shuffle button several times and checked that different pokemon appeared and ensured that the information was correct.
 
+3:
+What I asked for:
+I asked copilot to create a cart feature that allows the user to save pokemon and access their data later
+What the assistant produced:
+Copilot created small star buttons that were clickable and turned yellow when a pokemon saved
+What I fixed:
+I made sure that the saved pokemon list only showed up once.
+How I verified it:
+I clicked the save button and made sure the saved pokemon list showed up once and that pokemon were actually saved and their data could be accessed later. 
+
+4:
+What I asked for:
+I asked copilot to create a cart feature that allows the user to remove pokemon and no longer have access to that data in the saved menu.
+What the assistant produced:
+Copilot allowed me to remove pokemon data from saved list. 
+What I fixed:
+I made sure that the saved pokemon list only showed up once and made sure pokemon were able to be removed from the list. 
+How I verified it:
+I checked the saved pokemon menu and ran the code. Made sure that only pokemon I saved and hadn't removed showed up.
